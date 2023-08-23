@@ -4,7 +4,7 @@ Clickpay - ApplePay Web SDK (JS) sample code
 ## Setup
 
 1. You must have a Apple Developer Account To use this Feature
-2. The Domain which you want to display the ApplePay Button always note it should be verfied in Apple Developer Account under same merchant ID you must Create Below Certificates
+2. The Domain URL which you want to display the ApplePay Button. It should be verfied under same Apple Developer Account and under same merchant ID which you will create Certificates
 
 ![image](https://github.com/clickpaysa/Direct_ApplePay_on_Web/assets/135695828/2b6c16ba-58b3-44ed-a690-dfeb7762b9cb)
  
